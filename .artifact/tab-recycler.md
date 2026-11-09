@@ -4,7 +4,6 @@ date: 2020-04
 category: product
 tags:
   - browser-extension
-  - open-source
 links:
   chrome_web_store: https://chromewebstore.google.com/detail/tab-recycler/nbcnplijgopjihcgplgbhagnpopnomdi
   source: https://github.com/arfct/tab-recycler
