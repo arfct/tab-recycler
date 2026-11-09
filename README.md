@@ -13,3 +13,7 @@ Currently Supported:
 - Zoom - http://zoom.us
 
 Request support for new tools! - https://github.com/arfct/tab-recycler/issues
+
+## Catalogue
+
+Tab Recycler's entry in the [Artifact catalogue](https://catalogue-artifact.pages.dev/catalog/tab-recycler/) lives in [`.artifact/`](.artifact/tab-recycler.md). Edit it there; the catalogue imports it.
