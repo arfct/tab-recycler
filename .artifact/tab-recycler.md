@@ -13,6 +13,8 @@ unconfirmed:
   - date
 ---
 
-Tab Recycler is a Chrome extension that closes the blank tabs left behind when a link launches a native app. Links to Figma, Zoom and Dropbox Paper open a browser tab that launches the app and then stays open with nothing in it. Tab Recycler closes each one once the app has launched.
+Tab Recycler is a Chrome extension that closes the browser tabs left open when a link launches a desktop app. A link to a Figma file, a Zoom meeting or a Dropbox Paper document opens a tab that launches the app and then stays open. Tab Recycler runs a content script on those pages and closes the tab a few seconds later. On Figma it closes the tab only when the page shows its "in Figma app" message.
 
-Chrome extension, Manifest V3, using URL monitoring and content scripts.
+Version 1.3 is on the Chrome Web Store, last updated in November 2022. The repository is at version 1.4, which extends the Figma match from file URLs to every Figma page.
+
+JavaScript, Chrome Manifest V3. 2020.
