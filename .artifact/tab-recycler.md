@@ -1,6 +1,7 @@
 ---
 title: Tab Recycler
 date: 2020-04
+status: released
 category: product
 tags:
   - browser-extension
@@ -15,8 +16,7 @@ media:
   - src: store-illustration.png
     caption: The illustration on the Chrome Web Store listing, with the icons of Figma and Zoom in a browser window under the extension's mark
     alt: A drawing of the top left corner of a browser window with one empty tab, a large green recycling mark at its right, and the Figma and Zoom app icons side by side below the toolbar
-unconfirmed:
-  - date
+unconfirmed: [date, status]
 ---
 
 Links to Figma files, Zoom meetings and Dropbox Paper documents each open a browser tab that launches the desktop app and then stays open. Tab Recycler is a Chrome extension that closes those tabs. It runs on three kinds of page: Figma file pages, Zoom pages whose address ends in "success", and Dropbox Paper's redirect to its desktop app.
