@@ -2,7 +2,7 @@
 title: Tab Recycler
 date: 2020-04
 status: released
-category: product
+category: browser-extension
 tags:
   - browser-extension
 url: https://chromewebstore.google.com/detail/tab-recycler/nbcnplijgopjihcgplgbhagnpopnomdi
